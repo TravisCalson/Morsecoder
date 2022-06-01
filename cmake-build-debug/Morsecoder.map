@@ -1,0 +1,1965 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                              CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj (__aeabi_uldivmod)
+d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                              d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                              d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-errno.o)
+                              CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj (__errno)
+d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+                              d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+                              d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o) (_global_impure_ptr)
+d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+                              d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+                              d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+                              d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o) (__call_exitprocs)
+d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+                              d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o) (atexit)
+d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+                              d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                              d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+                              d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .rodata        0x00000000       0x24 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x00000000       0x7c d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._getpid  0x00000000        0x4 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._kill    0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._exit    0x00000000        0xc CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._read    0x00000000       0x20 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._write   0x00000000       0x1c CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._sbrk    0x00000000       0x3c CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._close   0x00000000        0x6 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._fstat   0x00000000        0xa CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._isatty  0x00000000        0x4 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._lseek   0x00000000        0x4 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._open    0x00000000        0xa CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._wait    0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._unlink  0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._times   0x00000000        0x6 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._stat    0x00000000        0xa CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._link    0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._fork    0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text._execve  0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .bss.__env     0x00000000        0x4 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .bss.heap_end.0
+                0x00000000        0x4 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .data.environ  0x00000000        0x4 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x00000000      0x835 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x00000000      0x1da CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .debug_loc     0x00000000      0x436 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .debug_aranges
+                0x00000000       0xb0 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .debug_ranges  0x00000000       0xa0 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x00000000      0x47b CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x00000000      0x45f CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .debug_frame   0x00000000      0x1a8 CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0xa0 CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+ .text.HAL_TIM_Base_MspDeInit
+                0x00000000       0x3c CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+ .text.HAL_UART_MspDeInit
+                0x00000000       0x44 CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_MspInit
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DeInit
+                0x00000000       0x2c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x00000000        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x00000000       0x2c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x00000000        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x00000000        0xe CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x00000000        0xe CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x00000000        0x6 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x00000000        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_EnableCompensationCell
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DisableCompensationCell
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x00000000        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x00000000        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x00000000        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x24 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x24 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_MPU_Disable
+                0x00000000       0x1c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_MPU_Enable
+                0x00000000       0x20 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_MPU_ConfigRegion
+                0x00000000       0x60 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x60 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x24 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x24 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x20 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x00000000       0x64 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x00000000       0x48 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x00000000      0x128 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0x5a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0x6e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x00000000        0x6 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x00000000        0x4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text.DMA_MultiBufferSetConfig
+                0x00000000       0x22 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_MultiBufferStart
+                0x00000000       0x5e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_MultiBufferStart_IT
+                0x00000000      0xf00 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_ChangeMemory
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_info    0x00000000      0x5ac CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_abbrev  0x00000000      0x1b6 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_loc     0x00000000      0x422 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_aranges
+                0x00000000       0x38 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_ranges  0x00000000       0x28 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_line    0x00000000      0xa50 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_str     0x00000000      0x57b CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_frame   0x00000000       0x68 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x00000000       0xd8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x00000000       0xa8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x00000000       0x88 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x00000000        0xe CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x00000000        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x00000000       0x24 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x00000000       0x1c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x00000000       0x14 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x00000000       0x14 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_info    0x00000000      0x5c4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_abbrev  0x00000000      0x1e0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_loc     0x00000000      0x45f CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_aranges
+                0x00000000       0x60 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_ranges  0x00000000       0x50 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_line    0x00000000      0x641 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_str     0x00000000      0x413 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_frame   0x00000000       0xd4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_DoubleWord
+                0x00000000       0x2c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_Word
+                0x00000000       0x24 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_HalfWord
+                0x00000000       0x24 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_Byte
+                0x00000000       0x20 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_SetErrorCode
+                0x00000000       0x8c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0x68 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x00000000       0xf4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x00000000       0x30 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x00000000       0x14 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x28 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x14 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x00000000        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x60 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x00000000       0x7c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x00000000       0x1c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .bss.pFlash    0x00000000       0x20 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_info    0x00000000      0x75a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_abbrev  0x00000000      0x26c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_loc     0x00000000      0x3cc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_aranges
+                0x00000000       0xa0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_ranges  0x00000000       0x90 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_line    0x00000000      0x7d7 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_str     0x00000000      0x57c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_frame   0x00000000      0x168 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x00000000       0x24 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_BOR_LevelConfig
+                0x00000000       0x18 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x00000000        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x1c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetBOR
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_EnableWRP
+                0x00000000       0x20 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_DisableWRP
+                0x00000000       0x20 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDP_LevelConfig
+                0x00000000       0x18 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x00000000       0x2c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000       0x84 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x22 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_Erase_Sector
+                0x00000000       0x54 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0x6c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_FlushCaches
+                0x00000000       0x60 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x00000000       0x94 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_info    0x00000000      0x84e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x00000000      0x257 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_loc     0x00000000      0x57f CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x00000000       0x98 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_ranges  0x00000000       0x88 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_line    0x00000000      0x753 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_str     0x00000000      0x5cc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_frame   0x00000000      0x164 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_info    0x00000000       0x6b CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_line    0x00000000       0x1d CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_str     0x00000000      0x1ec CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x134 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x00000000       0x18 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x00000000       0x1c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x00000000       0x1c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x00000000       0x84 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x00000000        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x00000000        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x00000000       0x20 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x00000000       0x38 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x00000000       0x20 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVD_IRQHandler
+                0x00000000       0x20 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_info    0x00000000      0x730 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_abbrev  0x00000000      0x180 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_aranges
+                0x00000000       0xa0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_ranges  0x00000000       0x90 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_line    0x00000000      0x48d CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_str     0x00000000      0x573 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_frame   0x00000000      0x138 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableBkUpReg
+                0x00000000       0x38 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableBkUpReg
+                0x00000000       0x38 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableFlashPowerDown
+                0x00000000        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableFlashPowerDown
+                0x00000000        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetVoltageRange
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ControlVoltageScaling
+                0x00000000       0x64 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_info    0x00000000      0x44e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_abbrev  0x00000000      0x16d CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_loc     0x00000000       0xb5 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_aranges
+                0x00000000       0x48 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_ranges  0x00000000       0x38 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_line    0x00000000      0x352 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_str     0x00000000      0x424 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_frame   0x00000000       0x90 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000        0x4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x9c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x00000000        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableCSS
+                0x00000000        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x00000000       0xcc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x3c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x20 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x00000000      0x154 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0x30 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000       0x74 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnablePLLI2S
+                0x00000000       0x68 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_DisablePLLI2S
+                0x00000000       0x34 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000      0x13c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_info    0x00000000      0x684 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x00000000      0x180 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_loc     0x00000000      0x3cf CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x00000000       0x48 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_ranges  0x00000000       0x38 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_line    0x00000000      0x656 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_str     0x00000000      0x4f9 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_frame   0x00000000       0xa4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_TI2_SetConfig
+                0x00000000       0x36 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_TI3_SetConfig
+                0x00000000       0x36 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_TI4_SetConfig
+                0x00000000       0x36 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_MspInit
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_MspDeInit
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_DeInit
+                0x00000000       0x5e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Start
+                0x00000000       0x7c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Stop
+                0x00000000       0x28 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Start_DMA
+                0x00000000       0xd4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_Stop_DMA
+                0x00000000       0x3c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_MspInit
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_MspDeInit
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_DeInit
+                0x00000000       0x5e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_MspDeInit
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_DeInit
+                0x00000000       0x5e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_MspInit
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_MspDeInit
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_DeInit
+                0x00000000       0x5e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_MspInit
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_MspDeInit
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_DeInit
+                0x00000000       0x4e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_MspInit
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_MspDeInit
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_DeInit
+                0x00000000       0x4e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_MultiWriteStart
+                0x00000000      0x1a8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_WriteStart
+                0x00000000       0x16 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_WriteStop
+                0x00000000       0x84 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_MultiReadStart
+                0x00000000      0x1a8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_ReadStart
+                0x00000000       0x16 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurst_ReadStop
+                0x00000000       0x84 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_GenerateEvent
+                0x00000000       0x2a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_ConfigTI1Input
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_ReadCapturedValue
+                0x00000000       0x32 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_PeriodElapsedCallback
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_DMAPeriodElapsedCplt
+                0x00000000       0x16 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_PeriodElapsedHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_DMAPeriodElapsedHalfCplt
+                0x00000000        0xa CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_DMACaptureCplt
+                0x00000000       0x80 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_CaptureHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_DMACaptureHalfCplt
+                0x00000000       0x3e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_DMADelayPulseCplt
+                0x00000000       0x70 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_PulseFinishedHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_DMADelayPulseHalfCplt
+                0x00000000       0x3e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_DMATriggerCplt
+                0x00000000       0x16 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_TriggerHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_DMATriggerHalfCplt
+                0x00000000        0xa CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_ErrorCallback
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_DMAError
+                0x00000000       0x5c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Base_GetState
+                0x00000000        0x6 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_GetState
+                0x00000000        0x6 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_GetState
+                0x00000000        0x6 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_GetState
+                0x00000000        0x6 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_GetState
+                0x00000000        0x6 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_GetState
+                0x00000000        0x6 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_GetActiveChannel
+                0x00000000        0x4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_GetChannelState
+                0x00000000       0x2a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_DMABurstState
+                0x00000000        0x6 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Init
+                0x00000000       0x58 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Init
+                0x00000000       0x58 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Init
+                0x00000000       0x5c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Init
+                0x00000000       0xb8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_ConfigChannel
+                0x00000000       0x5e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_TI1_SetConfig
+                0x00000000       0x7c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_ConfigChannel
+                0x00000000       0xc4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_ConfigChannel
+                0x00000000       0xfa CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_ConfigOCrefClear
+                0x00000000       0xfa CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_SlaveTimer_SetConfig
+                0x00000000       0xb8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_SlaveConfigSynchro
+                0x00000000       0x52 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_SlaveConfigSynchro_IT
+                0x00000000       0x52 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Start
+                0x00000000      0x104 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Stop
+                0x00000000       0x8c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Start_IT
+                0x00000000      0x14c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Stop_IT
+                0x00000000       0xdc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Start_DMA
+                0x00000000      0x26c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OC_Stop_DMA
+                0x00000000       0xf4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Stop
+                0x00000000       0x8c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Start_IT
+                0x00000000      0x14c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Stop_IT
+                0x00000000       0xdc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Start_DMA
+                0x00000000      0x26c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_PWM_Stop_DMA
+                0x00000000       0xf4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Start
+                0x00000000      0x130 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Stop
+                0x00000000       0x80 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Start_IT
+                0x00000000      0x174 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Stop_IT
+                0x00000000       0xd0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Start_DMA
+                0x00000000      0x258 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_Stop_DMA
+                0x00000000       0xe6 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Start
+                0x00000000       0x80 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Stop
+                0x00000000       0x80 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Start_IT
+                0x00000000       0x98 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_OnePulse_Stop_IT
+                0x00000000       0x94 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Start
+                0x00000000       0xcc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Stop
+                0x00000000       0xc4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Start_IT
+                0x00000000       0xf6 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Stop_IT
+                0x00000000       0xee CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Start_DMA
+                0x00000000      0x23c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.HAL_TIM_Encoder_Stop_DMA
+                0x00000000      0x106 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.TIM_CCxNChannelCmd
+                0x00000000       0x1e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.TIM_DMAErrorCCxN
+                0x00000000       0x44 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.TIM_DMADelayPulseNCplt
+                0x00000000       0x70 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_MspInit
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Init
+                0x00000000       0xd4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_MspDeInit
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_DeInit
+                0x00000000       0x4e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Start
+                0x00000000       0xbc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Stop
+                0x00000000       0x42 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Start_IT
+                0x00000000       0xc8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Stop_IT
+                0x00000000       0x4c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Start_DMA
+                0x00000000       0xf0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_Stop_DMA
+                0x00000000       0x4a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Start
+                0x00000000       0xf8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Stop
+                0x00000000       0x76 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Start_IT
+                0x00000000      0x130 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Stop_IT
+                0x00000000       0xc2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Start_DMA
+                0x00000000      0x214 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OCN_Stop_DMA
+                0x00000000       0xc0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Start
+                0x00000000       0xf8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Stop
+                0x00000000       0x76 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Start_IT
+                0x00000000      0x130 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Stop_IT
+                0x00000000       0xc2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Start_DMA
+                0x00000000      0x214 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_PWMN_Stop_DMA
+                0x00000000       0xc0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OnePulseN_Start
+                0x00000000       0x7a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OnePulseN_Stop
+                0x00000000       0x72 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OnePulseN_Start_IT
+                0x00000000       0x8e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_OnePulseN_Stop_IT
+                0x00000000       0x86 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_ConfigCommutEvent
+                0x00000000       0x70 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_ConfigCommutEvent_IT
+                0x00000000       0x70 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_ConfigCommutEvent_DMA
+                0x00000000       0x90 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_ConfigBreakDeadTime
+                0x00000000       0x52 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_RemapConfig
+                0x00000000       0x20 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.TIMEx_DMACommutationCplt
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_CommutHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.TIMEx_DMACommutationHalfCplt
+                0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_HallSensor_GetState
+                0x00000000        0x6 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text.HAL_TIMEx_GetChannelNState
+                0x00000000       0x2a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_WaitOnFlagUntilTimeout
+                0x00000000       0x88 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_MspInit
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_Init
+                0x00000000       0x6a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_LIN_Init
+                0x00000000       0x80 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_Init
+                0x00000000       0x8a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_MspDeInit
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_DeInit
+                0x00000000       0x32 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit
+                0x00000000       0xd8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_Receive
+                0x00000000       0xe4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit_IT
+                0x00000000       0x4e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_DMAPause
+                0x00000000       0xac CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_DMAResume
+                0x00000000       0xb4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UARTEx_ReceiveToIdle
+                0x00000000      0x138 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_Abort
+                0x00000000       0xf2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmit
+                0x00000000       0x6c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceive
+                0x00000000       0xa6 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_TxCpltCallback
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_AbortCpltCallback
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_Abort_IT
+                0x00000000      0x124 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_DMARxAbortCallback
+                0x00000000       0x2c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_DMATxAbortCallback
+                0x00000000       0x2c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmitCpltCallback
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmit_IT
+                0x00000000       0x80 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_DMATxOnlyAbortCallback
+                0x00000000       0x14 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceiveCpltCallback
+                0x00000000        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceive_IT
+                0x00000000       0xbc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_DMARxOnlyAbortCallback
+                0x00000000       0x16 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_LIN_SendBreak
+                0x00000000       0x40 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_EnterMuteMode
+                0x00000000       0x40 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_ExitMuteMode
+                0x00000000       0x40 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_EnableTransmitter
+                0x00000000       0x36 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_EnableReceiver
+                0x00000000       0x36 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_GetState
+                0x00000000        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_GetError
+                0x00000000        0x4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_Start_Receive_IT
+                0x00000000       0x3a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_Receive_IT
+                0x00000000       0x38 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UARTEx_ReceiveToIdle_IT
+                0x00000000       0x70 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UARTEx_ReceiveToIdle_DMA
+                0x00000000       0x70 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/input_content.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/input_content.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/input_content.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/sign.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/sign.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/sign.c.obj
+ .text          0x00000000       0x14 CMakeFiles/Morsecoder.elf.dir/startup/startup_stm32f407xx.s.obj
+ .data          0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/startup/startup_stm32f407xx.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/Morsecoder.elf.dir/startup/startup_stm32f407xx.s.obj
+ .data          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-errno.o)
+ .data          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2e d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-errno.o)
+ .text          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xc4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .data          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x00000000        0x1 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .rodata        0x00000000       0x24 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2e d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+ .data          0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+ .bss           0x00000000        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00020000         xrw
+CCMRAM           0x10000000         0x00010000         xrw
+FLASH            0x08000000         0x00100000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+LOAD d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD CMakeFiles/Morsecoder.elf.dir/Core/Src/dma.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Core/Src/gpio.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Core/Src/syscalls.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Hardware/Src/input_content.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/Hardware/Src/sign.c.obj
+LOAD CMakeFiles/Morsecoder.elf.dir/startup/startup_stm32f407xx.s.obj
+START GROUP
+LOAD d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a
+LOAD d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a
+LOAD d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+END GROUP
+LOAD d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+LOAD d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+                0x20020000                _estack = 0x20020000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x188
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 CMakeFiles/Morsecoder.elf.dir/startup/startup_stm32f407xx.s.obj
+                0x08000000                g_pfnVectors
+                0x08000188                . = ALIGN (0x4)
+
+.text           0x08000188     0x3a9c
+                0x08000188                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000188       0x40 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x080001c8       0x30 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                0x080001c8                __aeabi_uldivmod
+ .text          0x080001f8      0x2d0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x080001f8                __udivmoddi4
+ .text          0x080004c8        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x080004c8                __aeabi_idiv0
+                0x080004c8                __aeabi_ldiv0
+ *(.text*)
+ .text.MX_DMA_Init
+                0x080004cc       0x44 CMakeFiles/Morsecoder.elf.dir/Core/Src/dma.c.obj
+                0x080004cc                MX_DMA_Init
+ .text.MX_GPIO_Init
+                0x08000510       0xbc CMakeFiles/Morsecoder.elf.dir/Core/Src/gpio.c.obj
+                0x08000510                MX_GPIO_Init
+ .text.HAL_GPIO_EXTI_Callback
+                0x080005cc       0xc0 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+                0x080005cc                HAL_GPIO_EXTI_Callback
+ .text.HAL_TIM_PeriodElapsedCallback
+                0x0800068c       0x50 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+                0x0800068c                HAL_TIM_PeriodElapsedCallback
+ .text.Error_Handler
+                0x080006dc        0x4 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+                0x080006dc                Error_Handler
+ .text.SystemClock_Config
+                0x080006e0       0xa8 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+                0x080006e0                SystemClock_Config
+ .text.main     0x08000788       0x6c CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+                0x08000788                main
+ .text.HAL_MspInit
+                0x080007f4       0x38 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+                0x080007f4                HAL_MspInit
+ .text.NMI_Handler
+                0x0800082c        0x2 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x0800082c                NMI_Handler
+ .text.HardFault_Handler
+                0x0800082e        0x2 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x0800082e                HardFault_Handler
+ .text.MemManage_Handler
+                0x08000830        0x2 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000830                MemManage_Handler
+ .text.BusFault_Handler
+                0x08000832        0x2 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000832                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08000834        0x2 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000834                UsageFault_Handler
+ .text.SVC_Handler
+                0x08000836        0x2 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000836                SVC_Handler
+ .text.DebugMon_Handler
+                0x08000838        0x2 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000838                DebugMon_Handler
+ .text.PendSV_Handler
+                0x0800083a        0x2 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x0800083a                PendSV_Handler
+ .text.SysTick_Handler
+                0x0800083c        0x8 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x0800083c                SysTick_Handler
+ .text.EXTI2_IRQHandler
+                0x08000844        0xa CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000844                EXTI2_IRQHandler
+ *fill*         0x0800084e        0x2 
+ .text.TIM2_IRQHandler
+                0x08000850       0x10 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000850                TIM2_IRQHandler
+ .text.DMA2_Stream2_IRQHandler
+                0x08000860       0x10 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000860                DMA2_Stream2_IRQHandler
+ .text.DMA2_Stream7_IRQHandler
+                0x08000870       0x10 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000870                DMA2_Stream7_IRQHandler
+ .text.UART_Rx_IDLE_Callback
+                0x08000880       0x18 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000880                UART_Rx_IDLE_Callback
+ .text.UART_Rx_Callback
+                0x08000898       0x38 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000898                UART_Rx_Callback
+ .text.USART1_IRQHandler
+                0x080008d0       0x18 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080008d0                USART1_IRQHandler
+ .text.HAL_UART_TxCpltCallback
+                0x080008e8       0x28 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x080008e8                HAL_UART_TxCpltCallback
+ .text.SystemInit
+                0x08000910        0x2 CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x08000910                SystemInit
+ *fill*         0x08000912        0x2 
+ .text.MX_TIM2_Init
+                0x08000914       0x70 CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+                0x08000914                MX_TIM2_Init
+ .text.HAL_TIM_Base_MspInit
+                0x08000984       0x64 CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+                0x08000984                HAL_TIM_Base_MspInit
+ .text.HAL_TIM_MspPostInit
+                0x080009e8       0x5c CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+                0x080009e8                HAL_TIM_MspPostInit
+ .text.MX_TIM14_Init
+                0x08000a44       0x78 CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+                0x08000a44                MX_TIM14_Init
+ .text.MX_USART1_UART_Init
+                0x08000abc       0x34 CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+                0x08000abc                MX_USART1_UART_Init
+ .text.HAL_UART_MspInit
+                0x08000af0      0x100 CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+                0x08000af0                HAL_UART_MspInit
+ .text.HAL_InitTick
+                0x08000bf0       0x4c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000bf0                HAL_InitTick
+ .text.HAL_Init
+                0x08000c3c       0x34 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000c3c                HAL_Init
+ .text.HAL_IncTick
+                0x08000c70       0x18 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000c70                HAL_IncTick
+ .text.HAL_GetTick
+                0x08000c88        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000c88                HAL_GetTick
+ .text.HAL_Delay
+                0x08000c94       0x28 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000c94                HAL_Delay
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x08000cbc       0x24 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x08000cbc                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x08000ce0       0x70 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x08000ce0                HAL_NVIC_SetPriority
+ .text.HAL_NVIC_EnableIRQ
+                0x08000d50       0x1c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x08000d50                HAL_NVIC_EnableIRQ
+ .text.HAL_SYSTICK_Config
+                0x08000d6c       0x28 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x08000d6c                HAL_SYSTICK_Config
+ .text.DMA_SetConfig
+                0x08000d94       0x2c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.DMA_CalcBaseAndBitshift
+                0x08000dc0       0x40 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.DMA_CheckFifoParam
+                0x08000e00       0x8e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ *fill*         0x08000e8e        0x2 
+ .text.HAL_DMA_Init
+                0x08000e90       0xcc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x08000e90                HAL_DMA_Init
+ .text.HAL_DMA_Start_IT
+                0x08000f5c       0x6a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x08000f5c                HAL_DMA_Start_IT
+ .text.HAL_DMA_Abort
+                0x08000fc6       0x94 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x08000fc6                HAL_DMA_Abort
+ .text.HAL_DMA_Abort_IT
+                0x0800105a       0x26 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x0800105a                HAL_DMA_Abort_IT
+ .text.HAL_DMA_IRQHandler
+                0x08001080      0x1dc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                0x08001080                HAL_DMA_IRQHandler
+ .text.HAL_GPIO_Init
+                0x0800125c      0x1e4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x0800125c                HAL_GPIO_Init
+ .text.HAL_GPIO_ReadPin
+                0x08001440        0xe CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x08001440                HAL_GPIO_ReadPin
+ .text.HAL_GPIO_WritePin
+                0x0800144e        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x0800144e                HAL_GPIO_WritePin
+ .text.HAL_GPIO_TogglePin
+                0x0800145a       0x12 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x0800145a                HAL_GPIO_TogglePin
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x0800146c       0x1c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x0800146c                HAL_GPIO_EXTI_IRQHandler
+ .text.HAL_RCC_OscConfig
+                0x08001488      0x3f8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08001488                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x08001880       0xd4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08001880                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x08001954      0x160 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08001954                HAL_RCC_ClockConfig
+ .text.HAL_RCC_GetHCLKFreq
+                0x08001ab4        0xc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08001ab4                HAL_RCC_GetHCLKFreq
+ .text.HAL_RCC_GetPCLK1Freq
+                0x08001ac0       0x20 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08001ac0                HAL_RCC_GetPCLK1Freq
+ .text.HAL_RCC_GetPCLK2Freq
+                0x08001ae0       0x20 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08001ae0                HAL_RCC_GetPCLK2Freq
+ .text.TIM_OC1_SetConfig
+                0x08001b00       0x68 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_OC3_SetConfig
+                0x08001b68       0x70 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_OC4_SetConfig
+                0x08001bd8       0x50 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_TI1_ConfigInputStage
+                0x08001c28       0x24 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_TI2_ConfigInputStage
+                0x08001c4c       0x26 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text.TIM_ITRx_SetConfig
+                0x08001c72       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ *fill*         0x08001c82        0x2 
+ .text.HAL_TIM_Base_Start_IT
+                0x08001c84       0x88 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08001c84                HAL_TIM_Base_Start_IT
+ .text.HAL_TIM_Base_Stop_IT
+                0x08001d0c       0x32 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08001d0c                HAL_TIM_Base_Stop_IT
+ .text.HAL_TIM_PWM_MspInit
+                0x08001d3e        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08001d3e                HAL_TIM_PWM_MspInit
+ .text.HAL_TIM_OC_DelayElapsedCallback
+                0x08001d40        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08001d40                HAL_TIM_OC_DelayElapsedCallback
+ .text.HAL_TIM_IC_CaptureCallback
+                0x08001d42        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08001d42                HAL_TIM_IC_CaptureCallback
+ .text.HAL_TIM_PWM_PulseFinishedCallback
+                0x08001d44        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08001d44                HAL_TIM_PWM_PulseFinishedCallback
+ .text.HAL_TIM_TriggerCallback
+                0x08001d46        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08001d46                HAL_TIM_TriggerCallback
+ .text.HAL_TIM_IRQHandler
+                0x08001d48      0x17a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08001d48                HAL_TIM_IRQHandler
+ *fill*         0x08001ec2        0x2 
+ .text.TIM_Base_SetConfig
+                0x08001ec4       0xc8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08001ec4                TIM_Base_SetConfig
+ .text.HAL_TIM_Base_Init
+                0x08001f8c       0x58 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08001f8c                HAL_TIM_Base_Init
+ .text.HAL_TIM_PWM_Init
+                0x08001fe4       0x58 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08001fe4                HAL_TIM_PWM_Init
+ .text.TIM_OC2_SetConfig
+                0x0800203c       0x70 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x0800203c                TIM_OC2_SetConfig
+ .text.HAL_TIM_PWM_ConfigChannel
+                0x080020ac       0xdc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x080020ac                HAL_TIM_PWM_ConfigChannel
+ .text.TIM_ETR_SetConfig
+                0x08002188       0x18 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x08002188                TIM_ETR_SetConfig
+ .text.HAL_TIM_ConfigClockSource
+                0x080021a0       0xfe CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x080021a0                HAL_TIM_ConfigClockSource
+ .text.TIM_CCxChannelCmd
+                0x0800229e       0x1e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x0800229e                TIM_CCxChannelCmd
+ .text.HAL_TIM_PWM_Start
+                0x080022bc      0x104 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                0x080022bc                HAL_TIM_PWM_Start
+ .text.HAL_TIMEx_MasterConfigSynchronization
+                0x080023c0       0x8c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+                0x080023c0                HAL_TIMEx_MasterConfigSynchronization
+ .text.HAL_TIMEx_CommutCallback
+                0x0800244c        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+                0x0800244c                HAL_TIMEx_CommutCallback
+ .text.HAL_TIMEx_BreakCallback
+                0x0800244e        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+                0x0800244e                HAL_TIMEx_BreakCallback
+ .text.UART_EndTxTransfer
+                0x08002450       0x20 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_EndRxTransfer
+                0x08002470       0x5c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_Transmit_IT
+                0x080024cc       0x60 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_SetConfig
+                0x0800252c      0x110 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_Init
+                0x0800263c       0x5e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x0800263c                HAL_UART_Init
+ *fill*         0x0800269a        0x2 
+ .text.HAL_UART_Transmit_DMA
+                0x0800269c       0x9c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x0800269c                HAL_UART_Transmit_DMA
+ .text.HAL_UART_DMAStop
+                0x08002738       0x84 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08002738                HAL_UART_DMAStop
+ .text.UART_DMATransmitCplt
+                0x080027bc       0x4c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_EndTransmit_IT
+                0x08002808       0x1a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_TxHalfCpltCallback
+                0x08002822        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08002822                HAL_UART_TxHalfCpltCallback
+ .text.UART_DMATxHalfCplt
+                0x08002824        0xa CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_RxCpltCallback
+                0x0800282e        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x0800282e                HAL_UART_RxCpltCallback
+ .text.HAL_UART_RxHalfCpltCallback
+                0x08002830        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08002830                HAL_UART_RxHalfCpltCallback
+ .text.HAL_UART_ErrorCallback
+                0x08002832        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08002832                HAL_UART_ErrorCallback
+ .text.UART_DMAError
+                0x08002834       0x58 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_DMAAbortOnError
+                0x0800288c       0x10 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UARTEx_RxEventCallback
+                0x0800289c        0x2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x0800289c                HAL_UARTEx_RxEventCallback
+ .text.UART_Receive_IT
+                0x0800289e       0xe2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.HAL_UART_IRQHandler
+                0x08002980      0x280 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08002980                HAL_UART_IRQHandler
+ .text.UART_DMARxHalfCplt
+                0x08002c00       0x1a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_DMAReceiveCplt
+                0x08002c1a       0x96 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .text.UART_Start_Receive_DMA
+                0x08002cb0       0xa8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08002cb0                UART_Start_Receive_DMA
+ .text.HAL_UART_Receive_DMA
+                0x08002d58       0x38 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                0x08002d58                HAL_UART_Receive_DMA
+ .text.Key_Time_Judge
+                0x08002d90        0xe CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+                0x08002d90                Key_Time_Judge
+ .text.Key_Exti_Judge
+                0x08002d9e        0xc CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+                0x08002d9e                Key_Exti_Judge
+ *fill*         0x08002daa        0x2 
+ .text.DataTx_Judge
+                0x08002dac       0x34 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+                0x08002dac                DataTx_Judge
+ .text.LED_Brightness_Control
+                0x08002de0       0x2c CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+                0x08002de0                LED_Brightness_Control
+ .text.character_to_sign
+                0x08002e0c      0x3e8 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/input_content.c.obj
+                0x08002e0c                character_to_sign
+ .text.sign_clear
+                0x080031f4       0x18 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/input_content.c.obj
+                0x080031f4                sign_clear
+ .text.led_control
+                0x0800320c       0x70 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/input_content.c.obj
+                0x0800320c                led_control
+ .text.sign_to_character
+                0x0800327c      0x770 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/sign.c.obj
+                0x0800327c                sign_to_character
+ .text.Reset_Handler
+                0x080039ec       0x50 CMakeFiles/Morsecoder.elf.dir/startup/startup_stm32f407xx.s.obj
+                0x080039ec                Reset_Handler
+ .text.Default_Handler
+                0x08003a3c        0x2 CMakeFiles/Morsecoder.elf.dir/startup/startup_stm32f407xx.s.obj
+                0x08003a3c                RTC_Alarm_IRQHandler
+                0x08003a3c                HASH_RNG_IRQHandler
+                0x08003a3c                TIM8_CC_IRQHandler
+                0x08003a3c                TIM1_CC_IRQHandler
+                0x08003a3c                DMA2_Stream5_IRQHandler
+                0x08003a3c                DMA1_Stream5_IRQHandler
+                0x08003a3c                PVD_IRQHandler
+                0x08003a3c                SDIO_IRQHandler
+                0x08003a3c                TAMP_STAMP_IRQHandler
+                0x08003a3c                CAN2_RX1_IRQHandler
+                0x08003a3c                EXTI3_IRQHandler
+                0x08003a3c                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08003a3c                TIM1_UP_TIM10_IRQHandler
+                0x08003a3c                TIM8_UP_TIM13_IRQHandler
+                0x08003a3c                I2C3_ER_IRQHandler
+                0x08003a3c                EXTI0_IRQHandler
+                0x08003a3c                I2C2_EV_IRQHandler
+                0x08003a3c                DMA1_Stream2_IRQHandler
+                0x08003a3c                CAN1_RX0_IRQHandler
+                0x08003a3c                FPU_IRQHandler
+                0x08003a3c                OTG_HS_WKUP_IRQHandler
+                0x08003a3c                CAN2_SCE_IRQHandler
+                0x08003a3c                SPI1_IRQHandler
+                0x08003a3c                TIM6_DAC_IRQHandler
+                0x08003a3c                TIM1_BRK_TIM9_IRQHandler
+                0x08003a3c                DCMI_IRQHandler
+                0x08003a3c                CAN2_RX0_IRQHandler
+                0x08003a3c                DMA2_Stream3_IRQHandler
+                0x08003a3c                USART6_IRQHandler
+                0x08003a3c                USART3_IRQHandler
+                0x08003a3c                CAN1_RX1_IRQHandler
+                0x08003a3c                UART5_IRQHandler
+                0x08003a3c                DMA2_Stream0_IRQHandler
+                0x08003a3c                TIM4_IRQHandler
+                0x08003a3c                I2C1_EV_IRQHandler
+                0x08003a3c                DMA1_Stream6_IRQHandler
+                0x08003a3c                DMA1_Stream1_IRQHandler
+                0x08003a3c                UART4_IRQHandler
+                0x08003a3c                TIM3_IRQHandler
+                0x08003a3c                RCC_IRQHandler
+                0x08003a3c                TIM8_BRK_TIM12_IRQHandler
+                0x08003a3c                Default_Handler
+                0x08003a3c                EXTI15_10_IRQHandler
+                0x08003a3c                ADC_IRQHandler
+                0x08003a3c                DMA1_Stream7_IRQHandler
+                0x08003a3c                TIM7_IRQHandler
+                0x08003a3c                CAN2_TX_IRQHandler
+                0x08003a3c                TIM5_IRQHandler
+                0x08003a3c                I2C3_EV_IRQHandler
+                0x08003a3c                EXTI9_5_IRQHandler
+                0x08003a3c                RTC_WKUP_IRQHandler
+                0x08003a3c                ETH_WKUP_IRQHandler
+                0x08003a3c                SPI2_IRQHandler
+                0x08003a3c                OTG_HS_EP1_IN_IRQHandler
+                0x08003a3c                DMA1_Stream0_IRQHandler
+                0x08003a3c                CAN1_TX_IRQHandler
+                0x08003a3c                EXTI4_IRQHandler
+                0x08003a3c                FSMC_IRQHandler
+                0x08003a3c                ETH_IRQHandler
+                0x08003a3c                OTG_HS_EP1_OUT_IRQHandler
+                0x08003a3c                WWDG_IRQHandler
+                0x08003a3c                OTG_FS_WKUP_IRQHandler
+                0x08003a3c                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08003a3c                OTG_HS_IRQHandler
+                0x08003a3c                EXTI1_IRQHandler
+                0x08003a3c                USART2_IRQHandler
+                0x08003a3c                I2C2_ER_IRQHandler
+                0x08003a3c                DMA2_Stream1_IRQHandler
+                0x08003a3c                CAN1_SCE_IRQHandler
+                0x08003a3c                FLASH_IRQHandler
+                0x08003a3c                DMA2_Stream4_IRQHandler
+                0x08003a3c                OTG_FS_IRQHandler
+                0x08003a3c                SPI3_IRQHandler
+                0x08003a3c                DMA1_Stream4_IRQHandler
+                0x08003a3c                I2C1_ER_IRQHandler
+                0x08003a3c                DMA2_Stream6_IRQHandler
+                0x08003a3c                DMA1_Stream3_IRQHandler
+ *fill*         0x08003a3e        0x2 
+ .text.__libc_init_array
+                0x08003a40       0x48 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+                0x08003a40                __libc_init_array
+ .text.memset   0x08003a88       0xa4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+                0x08003a88                memset
+ .text.startup.register_fini
+                0x08003b2c       0x14 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08003b40        0xc d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+                0x08003b40                atexit
+ .text.__libc_fini_array
+                0x08003b4c       0x2c d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+                0x08003b4c                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x08003b78        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x08003b78                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x08003b7c        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x08003b7c                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x08003b80       0x8c d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+                0x08003b80                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x08003c0c        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08003c0c        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08003c0c        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x08003c0c        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+                0x08003c0c                _init
+ .init          0x08003c10        0x8 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x08003c18        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+                0x08003c18                _fini
+ .fini          0x08003c1c        0x8 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+                0x08003c24                . = ALIGN (0x4)
+                0x08003c24                _etext = .
+
+.vfp11_veneer   0x08003c24        0x0
+ .vfp11_veneer  0x08003c24        0x0 linker stubs
+
+.v4_bx          0x08003c24        0x0
+ .v4_bx         0x08003c24        0x0 linker stubs
+
+.iplt           0x08003c24        0x0
+ .iplt          0x08003c24        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rodata         0x08003c24       0x24
+                0x08003c24                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.AHBPrescTable
+                0x08003c24       0x10 CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x08003c24                AHBPrescTable
+ .rodata.APBPrescTable
+                0x08003c34        0x8 CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x08003c34                APBPrescTable
+ .rodata.flagBitshiftOffset.0
+                0x08003c3c        0x8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .rodata._global_impure_ptr
+                0x08003c44        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+                0x08003c44                _global_impure_ptr
+                0x08003c48                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08003c48        0x8
+                0x08003c48                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x08003c48        0x8 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x08003c50                __exidx_end = .
+
+.rel.dyn        0x08003c50        0x0
+ .rel.iplt      0x08003c50        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.preinit_array  0x08003c50        0x0
+                0x08003c50                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08003c50                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08003c50        0x8
+                0x08003c50                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x08003c50        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08003c54        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08003c58                PROVIDE (__init_array_end = .)
+
+.fini_array     0x08003c58        0x4
+                0x08003c58                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08003c58        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08003c5c                PROVIDE (__fini_array_end = .)
+                0x08003c5c                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x454 load address 0x08003c5c
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.sign     0x20000000       0x18 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+                0x20000000                sign
+ .data.SystemCoreClock
+                0x20000018        0x4 CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x20000018                SystemCoreClock
+ .data.uwTickFreq
+                0x2000001c        0x1 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x2000001c                uwTickFreq
+ *fill*         0x2000001d        0x3 
+ .data.uwTickPrio
+                0x20000020        0x4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x20000020                uwTickPrio
+ *fill*         0x20000024        0x4 
+ .data.impure_data
+                0x20000028      0x428 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000450        0x4 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x20000450                __atexit_recursive_mutex
+                0x20000454                . = ALIGN (0x4)
+                0x20000454                _edata = .
+                0x080040b0                _siccmram = LOADADDR (.ccmram)
+
+.igot.plt       0x20000454        0x0 load address 0x080040b0
+ .igot.plt      0x20000454        0x0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.ccmram         0x10000000        0x0 load address 0x080040b0
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _sccmram = .
+ *(.ccmram)
+ *(.ccmram*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _eccmram = .
+                0x10000000                . = ALIGN (0x4)
+
+.bss            0x20000454      0x2c0
+                0x20000454                _sbss = .
+                0x20000454                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000454       0x1c d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.UartRxBuff
+                0x20000470       0xff CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+                0x20000470                UartRxBuff
+ .bss.UartTxBuff
+                0x2000056f        0x1 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+                0x2000056f                UartTxBuff
+ .bss.exti_time
+                0x20000570        0x4 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+                0x20000570                exti_time
+ .bss.key_down_time
+                0x20000574        0x4 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+                0x20000574                key_down_time
+ .bss.htim14    0x20000578       0x48 CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+                0x20000578                htim14
+ .bss.htim2     0x200005c0       0x48 CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+                0x200005c0                htim2
+ .bss.hdma_usart1_rx
+                0x20000608       0x60 CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+                0x20000608                hdma_usart1_rx
+ .bss.hdma_usart1_tx
+                0x20000668       0x60 CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+                0x20000668                hdma_usart1_tx
+ .bss.huart1    0x200006c8       0x44 CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+                0x200006c8                huart1
+ .bss.uwTick    0x2000070c        0x4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x2000070c                uwTick
+ .bss.__lock___atexit_recursive_mutex
+                0x20000710        0x1 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x20000710                __lock___atexit_recursive_mutex
+ *(COMMON)
+                0x20000714                . = ALIGN (0x4)
+ *fill*         0x20000711        0x3 
+                0x20000714                _ebss = .
+                0x20000714                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000714      0x604
+                0x20000718                . = ALIGN (0x8)
+ *fill*         0x20000714        0x4 
+                0x20000718                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x20000918                . = (. + _Min_Heap_Size)
+ *fill*         0x20000718      0x200 
+                0x20000d18                . = (. + _Min_Stack_Size)
+ *fill*         0x20000918      0x400 
+                0x20000d18                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x2e CMakeFiles/Morsecoder.elf.dir/Core/Src/dma.c.obj
+ .ARM.attributes
+                0x0000007a       0x2e CMakeFiles/Morsecoder.elf.dir/Core/Src/gpio.c.obj
+ .ARM.attributes
+                0x000000a8       0x2e CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+ .ARM.attributes
+                0x000000d6       0x2e CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .ARM.attributes
+                0x00000104       0x2e CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .ARM.attributes
+                0x00000132       0x2e CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .ARM.attributes
+                0x00000160       0x2e CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+ .ARM.attributes
+                0x0000018e       0x2e CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+ .ARM.attributes
+                0x000001bc       0x2e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .ARM.attributes
+                0x000001ea       0x2e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x00000218       0x2e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .ARM.attributes
+                0x00000246       0x2e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x00000274       0x2e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x000002a2       0x2e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .ARM.attributes
+                0x000002d0       0x2e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x000002fe       0x2e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .ARM.attributes
+                0x0000032c       0x2e CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+ .ARM.attributes
+                0x0000035a       0x2e CMakeFiles/Morsecoder.elf.dir/Hardware/Src/input_content.c.obj
+ .ARM.attributes
+                0x00000388       0x2e CMakeFiles/Morsecoder.elf.dir/Hardware/Src/sign.c.obj
+ .ARM.attributes
+                0x000003b6       0x21 CMakeFiles/Morsecoder.elf.dir/startup/startup_stm32f407xx.s.obj
+ .ARM.attributes
+                0x000003d7       0x1e d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x000003f5       0x2e d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000423       0x1e d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000441       0x2e d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000046f       0x2e d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000049d       0x2e d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000004cb       0x2e d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000004f9       0x2e d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000527       0x2e d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000555       0x2e d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000583       0x2e d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000005b1       0x1e d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+OUTPUT(Morsecoder.elf elf32-littlearm)
+LOAD linker stubs
+LOAD d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+LOAD d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a
+LOAD d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a
+
+.debug_info     0x00000000    0x12ed9
+ .debug_info    0x00000000      0x532 CMakeFiles/Morsecoder.elf.dir/Core/Src/dma.c.obj
+ .debug_info    0x00000532      0x705 CMakeFiles/Morsecoder.elf.dir/Core/Src/gpio.c.obj
+ .debug_info    0x00000c37     0x12c9 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x00001f00      0x2a4 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_info    0x000021a4      0xb84 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_info    0x00002d28      0x37d CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_info    0x000030a5      0xfc3 CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+ .debug_info    0x00004068      0xcf5 CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+ .debug_info    0x00004d5d      0x9f0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_info    0x0000574d     0x1098 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_info    0x000067e5      0xb3f CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_info    0x00007324      0x7b7 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_info    0x00007adb      0xb03 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_info    0x000085de     0x3d5b CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_info    0x0000c339     0x1ade CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_info    0x0000de17     0x424e CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .debug_info    0x00012065      0xa5c CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+ .debug_info    0x00012ac1      0x303 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/input_content.c.obj
+ .debug_info    0x00012dc4       0xf3 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/sign.c.obj
+ .debug_info    0x00012eb7       0x22 CMakeFiles/Morsecoder.elf.dir/startup/startup_stm32f407xx.s.obj
+
+.debug_abbrev   0x00000000     0x256b
+ .debug_abbrev  0x00000000      0x126 CMakeFiles/Morsecoder.elf.dir/Core/Src/dma.c.obj
+ .debug_abbrev  0x00000126      0x16a CMakeFiles/Morsecoder.elf.dir/Core/Src/gpio.c.obj
+ .debug_abbrev  0x00000290      0x2e2 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x00000572       0xd1 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_abbrev  0x00000643      0x203 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_abbrev  0x00000846      0x119 CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_abbrev  0x0000095f      0x1ef CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+ .debug_abbrev  0x00000b4e      0x1f6 CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+ .debug_abbrev  0x00000d44      0x206 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_abbrev  0x00000f4a      0x36a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_abbrev  0x000012b4      0x2c2 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_abbrev  0x00001576      0x1fb CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_abbrev  0x00001771      0x28a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_abbrev  0x000019fb      0x22b CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_abbrev  0x00001c26      0x241 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x00001e67      0x2fd CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .debug_abbrev  0x00002164      0x1fd CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+ .debug_abbrev  0x00002361      0x14b CMakeFiles/Morsecoder.elf.dir/Hardware/Src/input_content.c.obj
+ .debug_abbrev  0x000024ac       0xad CMakeFiles/Morsecoder.elf.dir/Hardware/Src/sign.c.obj
+ .debug_abbrev  0x00002559       0x12 CMakeFiles/Morsecoder.elf.dir/startup/startup_stm32f407xx.s.obj
+
+.debug_aranges  0x00000000      0xcc8
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/Morsecoder.elf.dir/Core/Src/dma.c.obj
+ .debug_aranges
+                0x00000020       0x20 CMakeFiles/Morsecoder.elf.dir/Core/Src/gpio.c.obj
+ .debug_aranges
+                0x00000040       0x40 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+ .debug_aranges
+                0x00000080       0x20 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_aranges
+                0x000000a0       0xa0 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_aranges
+                0x00000140       0x28 CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_aranges
+                0x00000168       0x40 CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+ .debug_aranges
+                0x000001a8       0x30 CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+ .debug_aranges
+                0x000001d8       0xf0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_aranges
+                0x000002c8       0xa8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_aranges
+                0x00000370       0x90 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_aranges
+                0x00000400       0x58 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_aranges
+                0x00000458       0x88 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_aranges
+                0x000004e0      0x3d0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_aranges
+                0x000008b0      0x168 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x00000a18      0x200 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .debug_aranges
+                0x00000c18       0x38 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+ .debug_aranges
+                0x00000c50       0x30 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/input_content.c.obj
+ .debug_aranges
+                0x00000c80       0x20 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/sign.c.obj
+ .debug_aranges
+                0x00000ca0       0x28 CMakeFiles/Morsecoder.elf.dir/startup/startup_stm32f407xx.s.obj
+
+.debug_ranges   0x00000000      0xc38
+ .debug_ranges  0x00000000       0x10 CMakeFiles/Morsecoder.elf.dir/Core/Src/dma.c.obj
+ .debug_ranges  0x00000010       0x10 CMakeFiles/Morsecoder.elf.dir/Core/Src/gpio.c.obj
+ .debug_ranges  0x00000020       0x48 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+ .debug_ranges  0x00000068       0x10 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_ranges  0x00000078       0x90 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_ranges  0x00000108       0x18 CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_ranges  0x00000120       0x30 CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+ .debug_ranges  0x00000150       0x20 CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+ .debug_ranges  0x00000170       0xe0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_ranges  0x00000250       0xf8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_ranges  0x00000348       0x80 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_ranges  0x000003c8       0x48 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_ranges  0x00000410       0x90 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_ranges  0x000004a0      0x3c0 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_ranges  0x00000860      0x158 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_ranges  0x000009b8      0x208 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .debug_ranges  0x00000bc0       0x28 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+ .debug_ranges  0x00000be8       0x20 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/input_content.c.obj
+ .debug_ranges  0x00000c08       0x10 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/sign.c.obj
+ .debug_ranges  0x00000c18       0x20 CMakeFiles/Morsecoder.elf.dir/startup/startup_stm32f407xx.s.obj
+
+.debug_line     0x00000000    0x1191c
+ .debug_line    0x00000000      0x1f6 CMakeFiles/Morsecoder.elf.dir/Core/Src/dma.c.obj
+ .debug_line    0x000001f6      0x262 CMakeFiles/Morsecoder.elf.dir/Core/Src/gpio.c.obj
+ .debug_line    0x00000458      0x600 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x00000a58      0x1a9 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_line    0x00000c01      0x4a4 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_line    0x000010a5      0x271 CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_line    0x00001316      0x49d CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+ .debug_line    0x000017b3      0x43f CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+ .debug_line    0x00001bf2      0x5f9 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_line    0x000021eb      0x80c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_line    0x000029f7      0xe96 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_line    0x0000388d      0x74f CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_line    0x00003fdc      0xb81 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_line    0x00004b5d     0x4b13 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_line    0x00009670     0x1d37 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_line    0x0000b3a7     0x4682 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .debug_line    0x0000fa29      0x380 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+ .debug_line    0x0000fda9      0xc29 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/input_content.c.obj
+ .debug_line    0x000109d2      0xea9 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/sign.c.obj
+ .debug_line    0x0001187b       0xa1 CMakeFiles/Morsecoder.elf.dir/startup/startup_stm32f407xx.s.obj
+
+.debug_str      0x00000000     0x4038
+ .debug_str     0x00000000      0x7b3 CMakeFiles/Morsecoder.elf.dir/Core/Src/dma.c.obj
+                                0x7f5 (size before relaxing)
+ .debug_str     0x000007b3       0xef CMakeFiles/Morsecoder.elf.dir/Core/Src/gpio.c.obj
+                                0x8b4 (size before relaxing)
+ .debug_str     0x000008a2      0xa78 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+                                0xe26 (size before relaxing)
+ .debug_str     0x0000131a       0x4c CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+                                0x2ed (size before relaxing)
+ .debug_str     0x00001366      0x201 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                                0xada (size before relaxing)
+ .debug_str     0x00001567       0xa7 CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                                0x353 (size before relaxing)
+ .debug_str     0x0000160e      0x225 CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+                                0xffa (size before relaxing)
+ .debug_str     0x00001833       0x9d CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+                                0xd92 (size before relaxing)
+ .debug_str     0x000018d0      0x35a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                                0xb8c (size before relaxing)
+ .debug_str     0x00001c2a      0x4ab CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                                0xc5e (size before relaxing)
+ .debug_str     0x000020d5      0x305 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+                                0x7a8 (size before relaxing)
+ .debug_str     0x000023da       0xfe CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                                0x512 (size before relaxing)
+ .debug_str     0x000024d8      0x1c4 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                                0x738 (size before relaxing)
+ .debug_str     0x0000269c      0xd93 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+                               0x16eb (size before relaxing)
+ .debug_str     0x0000342f      0x544 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+                                0xeec (size before relaxing)
+ .debug_str     0x00003973      0x5b5 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+                                0xd8b (size before relaxing)
+ .debug_str     0x00003f28       0x4a CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+                                0x9ca (size before relaxing)
+ .debug_str     0x00003f72       0x40 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/input_content.c.obj
+                                0x296 (size before relaxing)
+ .debug_str     0x00003fb2       0x37 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/sign.c.obj
+                                0x1fc (size before relaxing)
+ .debug_str     0x00003fe9       0x4f CMakeFiles/Morsecoder.elf.dir/startup/startup_stm32f407xx.s.obj
+                                 0x84 (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 CMakeFiles/Morsecoder.elf.dir/Core/Src/dma.c.obj
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Core/Src/gpio.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Hardware/Src/input_content.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/Morsecoder.elf.dir/Hardware/Src/sign.c.obj
+
+.debug_frame    0x00000000     0x22c8
+ .debug_frame   0x00000000       0x30 CMakeFiles/Morsecoder.elf.dir/Core/Src/dma.c.obj
+ .debug_frame   0x00000030       0x34 CMakeFiles/Morsecoder.elf.dir/Core/Src/gpio.c.obj
+ .debug_frame   0x00000064       0x94 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x000000f8       0x28 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_frame   0x00000120      0x174 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_frame   0x00000294       0x30 CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_frame   0x000002c4       0xa8 CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+ .debug_frame   0x0000036c       0x64 CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+ .debug_frame   0x000003d0      0x1ec CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_frame   0x000005bc      0x148 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_frame   0x00000704      0x188 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_frame   0x0000088c       0xd8 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_frame   0x00000964      0x16c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_frame   0x00000ad0      0xb04 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_frame   0x000015d4      0x40c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_frame   0x000019e0      0x5cc CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .debug_frame   0x00001fac       0x64 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+ .debug_frame   0x00002010       0x4c CMakeFiles/Morsecoder.elf.dir/Hardware/Src/input_content.c.obj
+ .debug_frame   0x0000205c       0x20 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/sign.c.obj
+ .debug_frame   0x0000207c       0x2c d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x000020a8       0x34 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x000020dc       0x2c d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .debug_frame   0x00002108       0x2c d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .debug_frame   0x00002134       0x5c d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00002190       0x20 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .debug_frame   0x000021b0       0x34 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .debug_frame   0x000021e4       0xb0 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .debug_frame   0x00002294       0x34 d:/program files/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+
+.debug_loc      0x00000000     0xe0ff
+ .debug_loc     0x00000000      0x109 CMakeFiles/Morsecoder.elf.dir/Core/Src/main.c.obj
+ .debug_loc     0x00000109       0xd3 CMakeFiles/Morsecoder.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_loc     0x000001dc      0x158 CMakeFiles/Morsecoder.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_loc     0x00000334       0xe0 CMakeFiles/Morsecoder.elf.dir/Core/Src/tim.c.obj
+ .debug_loc     0x00000414       0x71 CMakeFiles/Morsecoder.elf.dir/Core/Src/usart.c.obj
+ .debug_loc     0x00000485      0x141 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_loc     0x000005c6      0x744 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_loc     0x00000d0a      0xbf9 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_loc     0x00001903      0x503 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_loc     0x00001e06      0x58c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_loc     0x00002392     0x506c CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_loc     0x000073fe     0x1cd7 CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_loc     0x000090d5     0x49ab CMakeFiles/Morsecoder.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+ .debug_loc     0x0000da80       0xc9 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/Key.c.obj
+ .debug_loc     0x0000db49       0x46 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/input_content.c.obj
+ .debug_loc     0x0000db8f      0x570 CMakeFiles/Morsecoder.elf.dir/Hardware/Src/sign.c.obj
